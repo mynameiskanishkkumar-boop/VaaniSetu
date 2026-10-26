@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.vaanisetu.app.ConnectionDiagnosticsTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2026-09-06T22:07:32" hostname="MANOJMEENA89" time="0.116">
+  <properties/>
+  <testcase name="classify no route to host exception" classname="org.vaanisetu.app.ConnectionDiagnosticsTest" time="0.056"/>
+  <testcase name="classify permission denied security exception" classname="org.vaanisetu.app.ConnectionDiagnosticsTest" time="0.001"/>
+  <testcase name="validate ports" classname="org.vaanisetu.app.ConnectionDiagnosticsTest" time="0.0"/>
+  <testcase name="classify connection refused exception" classname="org.vaanisetu.app.ConnectionDiagnosticsTest" time="0.007"/>
+  <testcase name="test packet framing and crc verification" classname="org.vaanisetu.app.ConnectionDiagnosticsTest" time="0.029"/>
+  <testcase name="classify bind exception" classname="org.vaanisetu.app.ConnectionDiagnosticsTest" time="0.007"/>
+  <testcase name="validate valid IPv4 addresses" classname="org.vaanisetu.app.ConnectionDiagnosticsTest" time="0.001"/>
+  <testcase name="invalidate improper IP addresses" classname="org.vaanisetu.app.ConnectionDiagnosticsTest" time="0.001"/>
+  <testcase name="test packet ack framing and crc verification" classname="org.vaanisetu.app.ConnectionDiagnosticsTest" time="0.001"/>
+  <testcase name="classify socket timeout exception" classname="org.vaanisetu.app.ConnectionDiagnosticsTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

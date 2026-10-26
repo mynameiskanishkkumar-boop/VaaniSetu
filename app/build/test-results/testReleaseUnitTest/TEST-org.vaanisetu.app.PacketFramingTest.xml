@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.vaanisetu.app.PacketFramingTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-09-06T22:07:32" hostname="MANOJMEENA89" time="0.011">
+  <properties/>
+  <testcase name="testInvalidMagicBytesFails" classname="org.vaanisetu.app.PacketFramingTest" time="0.007"/>
+  <testcase name="testSerializationAndDeserializationSuccess" classname="org.vaanisetu.app.PacketFramingTest" time="0.001"/>
+  <testcase name="testCorruptPayloadFailsCrcCheck" classname="org.vaanisetu.app.PacketFramingTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

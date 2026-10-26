@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.vaanisetu.app.VoicePipelineTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-09-06T22:07:32" hostname="MANOJMEENA89" time="0.007">
+  <properties/>
+  <testcase name="test voice packet serialization and deserialization across languages" classname="org.vaanisetu.app.VoicePipelineTest" time="0.005"/>
+  <testcase name="test circular audio buffer write and readAllAvailable" classname="org.vaanisetu.app.VoicePipelineTest" time="0.001"/>
+  <testcase name="test emergency voice packet priority serialization" classname="org.vaanisetu.app.VoicePipelineTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

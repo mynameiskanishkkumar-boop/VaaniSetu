@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.vaanisetu.app.WerCalculationTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-09-06T22:07:32" hostname="MANOJMEENA89" time="0.013">
+  <properties/>
+  <testcase name="testWerWithInsertionAndDeletion" classname="org.vaanisetu.app.WerCalculationTest" time="0.011"/>
+  <testcase name="testWerIdenticalSentences" classname="org.vaanisetu.app.WerCalculationTest" time="0.001"/>
+  <testcase name="testWerWithOneSubstitution" classname="org.vaanisetu.app.WerCalculationTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

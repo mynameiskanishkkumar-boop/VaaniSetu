@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.vaanisetu.app.CircularAudioBufferTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2026-09-06T22:07:32" hostname="MANOJMEENA89" time="0.025">
+  <properties/>
+  <testcase name="write with explicit length parameter" classname="org.vaanisetu.app.CircularAudioBufferTest" time="0.012"/>
+  <testcase name="read with explicit length parameter" classname="org.vaanisetu.app.CircularAudioBufferTest" time="0.001"/>
+  <testcase name="clear resets buffer" classname="org.vaanisetu.app.CircularAudioBufferTest" time="0.002"/>
+  <testcase name="write drops samples when buffer is full" classname="org.vaanisetu.app.CircularAudioBufferTest" time="0.001"/>
+  <testcase name="write wraps around when capacity exceeded" classname="org.vaanisetu.app.CircularAudioBufferTest" time="0.0"/>
+  <testcase name="readAllAvailable drains buffer completely" classname="org.vaanisetu.app.CircularAudioBufferTest" time="0.0"/>
+  <testcase name="empty buffer returns zero samples" classname="org.vaanisetu.app.CircularAudioBufferTest" time="0.0"/>
+  <testcase name="multiple sequential write-read cycles" classname="org.vaanisetu.app.CircularAudioBufferTest" time="0.0"/>
+  <testcase name="write and read back exact data" classname="org.vaanisetu.app.CircularAudioBufferTest" time="0.001"/>
+  <testcase name="partial read leaves remaining data" classname="org.vaanisetu.app.CircularAudioBufferTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.vaanisetu.app.VaaniPacketLocationTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-09-06T22:07:29" hostname="MANOJMEENA89" time="0.022">
+  <properties/>
+  <testcase name="testV1BackwardCompatibility" classname="org.vaanisetu.app.VaaniPacketLocationTest" time="0.001"/>
+  <testcase name="testLocationValidationAndFormatting" classname="org.vaanisetu.app.VaaniPacketLocationTest" time="0.017"/>
+  <testcase name="testV2WithoutLocation" classname="org.vaanisetu.app.VaaniPacketLocationTest" time="0.001"/>
+  <testcase name="testCrcCorruptionOnLocationBytesFails" classname="org.vaanisetu.app.VaaniPacketLocationTest" time="0.001"/>
+  <testcase name="testV2WithFreshGnssLocation" classname="org.vaanisetu.app.VaaniPacketLocationTest" time="0.001"/>
+  <testcase name="testV2WithLastKnownLocationAndAddress" classname="org.vaanisetu.app.VaaniPacketLocationTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

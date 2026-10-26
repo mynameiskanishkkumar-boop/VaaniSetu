@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VaaniSetu</string>
+    <string name="app_subtitle">Offline Multilingual Voice Transceiver</string>
+    <string name="app_tagline">Speak. Convert. Connect. Listen.</string>
+    <style name="Theme.VaaniSetu" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#0F172A</item>
+        <item name="android:navigationBarColor">#0F172A</item>
+    </style>
+</resources>
